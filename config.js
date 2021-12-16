@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Bui Duy Tin",
+    titleWeb: "duytin19",
     introTitle: 'Trần Thị Bảo Quyên',
     introDesc: `Em là đám mây nhỏ
                 Trên bâu trời thật to

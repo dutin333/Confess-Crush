@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Duy TÍn",
     introTitle: 'Trần Thị Bảo Quyên',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Em là đám mây nhỏ
+                Trên bâu trời thật to
+                Tuy có hơi tròn vo
+                Nhưng anh yêu lắm đó`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
